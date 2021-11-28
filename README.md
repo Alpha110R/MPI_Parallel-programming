@@ -1,5 +1,5 @@
 # MPI_Parallel-programming
-At the PDF there ara the instructions for this exercise.
+In the PDF there ara the instructions for this exercise.
 
 In the main there is 3 functions:
 - 1)Sequential
